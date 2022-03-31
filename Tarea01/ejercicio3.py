@@ -5,7 +5,5 @@ def isPalindrome(cadena):
         print ("La cadena, " + cadena + ", sí es palindromo")
     else:
         print ("La cadena, " + cadena + ", no es palindromo")
-        
-# print("The Reversed String is", reversed_string)   
 
 isPalindrome("Lavan esa base naval") 
