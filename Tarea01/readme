@@ -1,0 +1,14 @@
+Carmona Mendoza Martín 
+313075977
+04-Abril-2022
+
+Cada ejercicio se encuentra en un archivo diferente. 
+Para ejecutarlos se debe situar en la carpeta src y poner el siguiente comando:
+
+                    $ py ejercicio1.py
+                    $ py ejercicio2.py
+                    $ py ejercicio3.py
+                    $ py ejercicio4.py
+                    $ py ejercicio5.py
+
+Los ejercicios se encuentran con un ejemplo estático, pero se puede poner cualquier parámetro
